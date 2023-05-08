@@ -12,7 +12,7 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Bus Ab email daal de</b></label>
+    <label for="email"><b>Bus kar diya change</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
