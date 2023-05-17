@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Himmu 17May2023@06:47am  </h1>
+   <h1> Thankyou, Himmu 17May2023@07:15am  </h1>
 
   
 </form>
