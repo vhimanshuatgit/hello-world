@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Himmu All devops compelted on 25May2023.
+   <h1> This is Lab Rev 3 on 26May2023@06:45am
 
   
 </form>
