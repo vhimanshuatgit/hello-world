@@ -31,6 +31,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Watzzup guys on28thMay2023
+   <h1> Gajab !! all done .
   
 </form>
